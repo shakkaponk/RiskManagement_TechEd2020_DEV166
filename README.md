@@ -1,6 +1,5 @@
 # Getting Started
-
-Welcome to your new project.
+Source : https://github.com/SAP-samples/teched2020-DEV166/
 
 It contains these folders and files, following our recommended project layout:
 
