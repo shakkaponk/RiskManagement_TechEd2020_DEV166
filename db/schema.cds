@@ -3,6 +3,7 @@ using { managed } from '@sap/cds/common';
   entity Risks : managed {
     key ID      : UUID  @(Core.Computed : true);
     title       : String(100);
+    owner       : String;
     prio        : String(5);
     descr       : String;
     miti        : Association to Mitigations;
