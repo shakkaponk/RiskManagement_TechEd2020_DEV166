@@ -88,10 +88,8 @@ annotate RiskService.Risks with {
 					}                                      
 				]
 			}
-		},
-		UI.MultiLineText: IsActiveEntity
+		}
 	);
-  
 	bp @(	
 		Common: {
 			Text: bp.LastName  , TextArrangement: #TextOnly,
@@ -113,7 +111,6 @@ annotate RiskService.Risks with {
 			}
 		}
 	)	
-  
 }
 
 
